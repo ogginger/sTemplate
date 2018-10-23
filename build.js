@@ -2,9 +2,9 @@
 /*
 */ 
 ({
-    paths: {
-	
-    },
-    name: "sTemplate",
-	    out: "template.min.js"
+    	paths: {
+		"underscore": "lib/underscore.min"
+    	},
+    	name: "sTemplate",
+	out: "template.min.js"
 })
