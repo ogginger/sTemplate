@@ -5,6 +5,7 @@
     	paths: {
 		"underscore": "lib/underscore.min"
     	},
+	exclude: [ "underscore" ],
     	name: "sTemplate",
 	out: "template.min.js"
 })
